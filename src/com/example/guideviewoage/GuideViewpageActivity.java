@@ -24,7 +24,7 @@ public class GuideViewpageActivity extends FragmentActivity {
 	private ViewPager viewPager;
 	String[] guides;
 	List<fragment> fragements;
-
+   
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
